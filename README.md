@@ -1,4 +1,5 @@
 # trial1\
+//this is a code
 import java.util.Scanner;
 public class ques2 {
     //SEQUENTIAL SEARCH
