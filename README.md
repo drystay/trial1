@@ -1,4 +1,5 @@
 # trial1\
+<<<<<<< HEAD
 //this is a code
 import java.util.Scanner;
 public class ques2 {
@@ -25,3 +26,6 @@ public class ques2 {
         sc.close();
     }
 }
+=======
+
+>>>>>>> 28d4cd6b36c89dcd86c97f949c63bc9aa12eb401
